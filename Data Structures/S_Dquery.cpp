@@ -1,4 +1,4 @@
-// https://www.spoj.com/problems/DQUERY/
+// https://www.spoj.com/problems/DQUERY
 
 #include<bits/stdc++.h>
 #include <climits>
